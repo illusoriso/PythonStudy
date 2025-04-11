@@ -10,7 +10,7 @@
 """
 
 
-prinprint_flag = 0
+print_flag = 0
 
 def solution(h1, m1, s1, h2, m2, s2):
     # h1, m1, s1, h2, m2, s2 = 	11, 58, 59, 11, 59, 0
