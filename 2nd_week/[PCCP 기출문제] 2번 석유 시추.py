@@ -10,6 +10,8 @@
 - set.update() 그리고 list.extend()
 - lambda : 한번만 쓸 간단한 함수 정의 문법 : [lambda 매개변수: 리턴값]
 - node = next(iter(oil_nodes)) -> for문으로 하나씩 꺼내는게 아니라 while문을 사용할때 다음 node를 꺼내는 작업!!!
+- list보다 set연산이 연산시간이 더 오래걸림 - 조금더 복잡하더라도 list로 계산하는 것이 효율성 측면에서는 더 좋음
+
 
 ## 특이사항 ##
 점수 : 86.7/100
